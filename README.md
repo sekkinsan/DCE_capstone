@@ -5,8 +5,10 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 ### Customer problem to be solved 
 <p>Pebble Pharma is a pharmaceuticals company that has struggled to modernize their onboarding process for their new hires. Historically they send multiple onboarding agreements through email and their homegrown HR system. They want to modernize this process through a front end system that tracks their entire employee journey. In addition to Adobe Acrobat Sign, they have also purchased AEM Assets, Sites and Forms. </p>
-<br>
-<p> Finally, they are prioritizing accessibility of their documents. This is a companywide initiative at Pebble, particularly after an external audit revealed that they do not meet accessibility standards in multiple areas of their processes. </p>
+
+<p> Additionally, they are prioritizing accessibility of their documents. This is a companywide initiative at Pebble, particularly after an external audit revealed that they do not meet accessibility standards in multiple areas of their processes. </p>
+
+<p> Remediation team is tasked with mass remediation effort for key HR and legal documents </p>
 
 
 ### Methodology 
@@ -38,7 +40,7 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 ### Customer outcome and value realized 
 <p> Utilizing a front end system and having it seamlessly integrated with Adobe Acrobat Sign and AEM created a consolidated system for Pebble Pharm. This new system resulted in a 1-hour time savings for each benefit packet that's being sent out to new employees. </p>
 
-<p> Accessibility standards were also met for this 201X benefit packet, and the HR team is setting the precedent for other teams to prioritize PDF accessibility within the company, since it is ultimately about the user experience. WCAG </p>
+<p> We made many improvements on meeting the accessibility standards for this 201X benefit packet. Unfortunately, the accessibility report does show some issues that were unresolved. Without the source document, full remediation was not possible. With that being said, customer is satisfied with the results with the improvement of user experience for those using assistive tools. The HR team is setting the precedent for other teams to prioritize PDF accessibility within the company, since this engagement ultimately elevated their candidates' user experience. </p>
 
 
 ### Future automation 
