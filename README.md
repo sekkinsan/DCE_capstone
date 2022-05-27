@@ -10,7 +10,7 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 <h3> Methodology </h3>
 
-<h3> [PDF accessibility report of poorly tagged file](./Pebble_Pharm_201X_Benefits.pdf.accreport.html) </h3>
+<h3> [PDF accessibility report of poorly tagged file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits.pdf.accreport.html) </h3>
 
 <h3> Remediation plan </h3>
 <p> For the remediation process, our team first started by requesting the source documents from Pebble. Unfortunately, due to their lack of a centralized storage system for their documents and files, we were not able to receive them. Instead, due to the urgency of their request and as a show of good faith, the Adobe team took on their most used PDF, the 201X benefits packet, and updated that to meet the accessibility standards.</p>
@@ -24,7 +24,7 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
   <li> Ran multiple iterations of the accessibility checker within Acrobat and revise as needed </li>
 </ol>
 <br>
-<h3> PDF accessibility report of remediated file </h3>
+<h3> [PDF accessibility report of remediated file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits_remediated.pdf.accreport.html) </h3>
 
 <h3> Delivery workflow </h3>
 <dl> Delivery workflow 
