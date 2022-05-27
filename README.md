@@ -35,8 +35,8 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 ### Customer outcome and value realized 
 <p> Utilizing a front end system and having it seamlessly integrated with Adobe Acrobat Sign and AEM created a consolidated system for Pebble Pharm. This new system resulted in a 1-hour time savings for each benefit packet that's being sent out to new employees. </p>
-<br>
-<p> Accessibility standards were also met for this 201X benefit packet, and the HR team is setting the precedent for other teams to prioritize PDF accessibility within the company </p>
+
+<p> Accessibility standards were also met for this 201X benefit packet, and the HR team is setting the precedent for other teams to prioritize PDF accessibility within the company, since it is ultimately about the user experience. WCAG </p>
 
 
 ### Future automation 
