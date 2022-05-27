@@ -11,6 +11,8 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 ### Methodology 
 
+![Fast Start Methodology](/assets/fast_start_methodology.JPG)
+
 
 ### [PDF accessibility report of poorly tagged file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits.pdf.accreport.html) 
 
@@ -40,4 +42,5 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 
 ### Future automation 
-<p> WIP </p>
+
+![Future Automation](/assets/future_automation.JPG)
