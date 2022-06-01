@@ -61,7 +61,7 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
   7. Ran multiple iterations of the accessibility checker within Acrobat and revise as needed 
 
 
-### [PDF accessibility report of remediated file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits_remediated.pdf.accreport.html) 
+### [PDF accessibility report of remediated file(https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits_remediated_06012022.pdf.accreport.html) 
 
 #### Page Content Issues
 
