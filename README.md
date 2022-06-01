@@ -18,6 +18,38 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 ### [PDF accessibility report of poorly tagged file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits.pdf.accreport.html) 
 
+#### Document Issues
+Tagged PDF - Failed -  The document isn't tagged to specify the correct reading order
+Logical Reading Order - Needs Manual Check - Reading order always needs to be manually verified by a person
+Title - Failed - The document was missing a title 
+Color contrast - Needs Manual Check - Document may contain content that isn't accessible to people who are color-blind.
+
+#### Page Content Issues
+
+##### Tagged content
+Element 1 not tagged and not shown within the Tags tree or Content section
+Element 2 not tagged and not shown within the Tags tree or Content section
+Element 3 not tagged and not shown within the Tags tree or Content section
+Element 4 not tagged and not shown within the Tags tree or Content section
+
+##### Tab order
+Page 1-7 tab order failed since tabbing should lead the reader in logical reading order.
+
+#### Alternate Text
+
+##### Figures alternate text
+Figures 1-11 do not have alternate text or are not set up as artifacts
+
+##### Other elements alternate text
+Elements 1 & 2 do not have alternate text or are not set up as artifacts
+
+#### Tables
+
+##### Headers
+Elements 1-8 are missing headers
+
+##### Summary
+Elements 1-8 are missing summaries
 
 ### Remediation plan 
   1. Verified that the PDF was not created from a scanned image 
