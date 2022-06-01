@@ -19,37 +19,37 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 ### [PDF accessibility report of poorly tagged file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits.pdf.accreport.html) 
 
 #### Document Issues
-Tagged PDF - Failed -  The document isn't tagged to specify the correct reading order
-Logical Reading Order - Needs Manual Check - Reading order always needs to be manually verified by a person
-Title - Failed - The document was missing a title 
-Color contrast - Needs Manual Check - Document may contain content that isn't accessible to people who are color-blind.
+<p> Tagged PDF - Failed -  The document isn't tagged to specify the correct reading order. </p>
+<p> Logical Reading Order - Needs Manual Check - Reading order always needs to be manually verified by a person. </p>
+<p> Title - Failed - The document was missing a title. </p>
+<p> Color contrast - Needs Manual Check - Document may contain content that isn't accessible to people who are color-blind.</p>
 
 #### Page Content Issues
 
 ##### Tagged content
-Element 1 not tagged and not shown within the Tags tree or Content section
-Element 2 not tagged and not shown within the Tags tree or Content section
-Element 3 not tagged and not shown within the Tags tree or Content section
-Element 4 not tagged and not shown within the Tags tree or Content section
+<p> Element 1 not tagged and not shown within the Tags tree or Content section.</p>
+<p> Element 2 not tagged and not shown within the Tags tree or Content section.</p>
+<p> Element 3 not tagged and not shown within the Tags tree or Content section.</p>
+<p> Element 4 not tagged and not shown within the Tags tree or Content section.</p>
 
 ##### Tab order
-Page 1-7 tab order failed since tabbing should lead the reader in logical reading order.
+<p>Page 1-7 tab order failed since tabbing should lead the reader in logical reading order.</p>
 
 #### Alternate Text
 
 ##### Figures alternate text
-Figures 1-11 do not have alternate text or are not set up as artifacts
+<p>Figures 1-11 do not have alternate text or are not set up as artifacts.</p>
 
 ##### Other elements alternate text
-Elements 1 & 2 do not have alternate text or are not set up as artifacts
+<p>Elements 1 & 2 do not have alternate text or are not set up as artifacts.</p>
 
 #### Tables
 
 ##### Headers
-Elements 1-8 are missing headers
+<p>Elements 1-8 are missing headers.</p>
 
 ##### Summary
-Elements 1-8 are missing summaries
+<p>Elements 1-8 are missing summaries.</p>
 
 ### Remediation plan 
   1. Verified that the PDF was not created from a scanned image 
@@ -62,6 +62,23 @@ Elements 1-8 are missing summaries
 
 
 ### [PDF accessibility report of remediated file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits_remediated.pdf.accreport.html) 
+
+#### Page Content Issues
+
+##### Tagged content
+<p> Element 1 not tagged and not shown within the Tags tree or content section. (page 5) </p>
+
+##### Tagged annotations
+<p> Element 1 (link) not tagged. (page 2) </p>
+<p> Element 2 - 13 (table cells) marked as annotation and not tagged. (page 4)</p>
+
+#### Tables
+
+##### Headers
+<p> Element 1 is missing headers. (page 4) </p>
+
+##### Regularity
+<p> Table has 2 rows with 3 columns, and 2 rows with 2 columns. Typically tables are evenly distributed throughout. (page 8) </p>
 
 
 ### Delivery workflow 
