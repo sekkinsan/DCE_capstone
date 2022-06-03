@@ -8,12 +8,12 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 <p> Additionally, they are prioritizing accessibility of their documents. This is a companywide initiative at Pebble, particularly after an external audit revealed that they do not meet accessibility standards in multiple areas of their processes. </p>
 
-<p> Remediation team is tasked with mass remediation effort for key HR and legal documents </p>
+<p> Remediation team is tasked with mass remediation effort for key HR and legal documents to bring their various documents up to date in terms of WCAG AA standards. This primary use case will focus on the 201X Benefits Packet. </p>
 
 
 ### Methodology 
 
-![Fast Start Methodology](/assets/fast_start_methodology.JPG)
+![Remediation Methodology](/assets/remediation_methodology.JPG)
 
 ### [PDF accessibility report of poorly tagged file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits.pdf.accreport.html) 
 
