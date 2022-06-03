@@ -18,21 +18,29 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 <p> Title - Failed - The document was missing a title. </p>
 <p> Color contrast - Needs Manual Check - Document may contain content that isn't accessible to people who are color-blind.</p>
 ### Page Content Issues
+
 #### Tagged content
 <p> Element 1 not tagged and not shown within the Tags tree or Content section.</p>
 <p> Element 2 not tagged and not shown within the Tags tree or Content section.</p>
 <p> Element 3 not tagged and not shown within the Tags tree or Content section.</p>
 <p> Element 4 not tagged and not shown within the Tags tree or Content section.</p>
+
 #### Tab order
 <p>Page 1-7 tab order failed since tabbing should lead the reader in logical reading order.</p>
+
 ### Alternate Text
+
 #### Figures alternate text
 <p>Figures 1-11 do not have alternate text or are not set up as artifacts.</p>
+
 #### Other elements alternate text
 <p>Elements 1 & 2 do not have alternate text or are not set up as artifacts.</p>
+
 ### Tables
+
 #### Headers
 <p>Elements 1-8 are missing headers.</p>
+
 #### Summary
 <p>Elements 1-8 are missing summaries.</p>
 
@@ -45,18 +53,25 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 ## [PDF accessibility report of remediated file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits_remediated_06032022.pdf.accreport.html) 
 
 ### Document Issues
+
 #### Logical Reading Order
 <p> Manual check was done for the reading order of this document. </p>
+
 #### Color Contrast
 <p> Replaced document colors and used high-contrast colors on document wherever possible (without altering  customer’s color palette). </p>
+
 ### Page Content Issues
+
 #### Tagged annotations
 <p> Element 1 (link) not tagged. (page 2) </p>
 <p> Element 2 - 13 (table cells) marked as annotation and not tagged. (page 4)</p>
 <p> These issues were caused by the consolidation of the separate PDF files into the original booklet size. </p>
+
 ### Tables
+
 #### Headers
 <p> Element 1 is missing headers. (page 4) </p>
+
 #### Regularity
 <p> Table has 2 rows with 3 columns, and 2 rows with 2 columns. Typically tables are evenly distributed throughout. (page 8) </p>
 <p> This was skipped as part of the accessibility check since the original document did not contain the evenly distributed rows and columns. We left it as is to not tamper with the customer's document. </p>
