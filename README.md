@@ -15,7 +15,6 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 ![Fast Start Methodology](/assets/fast_start_methodology.JPG)
 
-
 ### [PDF accessibility report of poorly tagged file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits.pdf.accreport.html) 
 
 #### Document Issues
@@ -52,25 +51,28 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 <p>Elements 1-8 are missing summaries.</p>
 
 ### Remediation plan 
-  1. Verified that the PDF was not created from a scanned image 
-  2. Verified that the PDF contained fillable form fields and added those form fields within Acrobat 
-  3. Verified that the PDF contained links and added those links to direct recipients correctly 
-  4. Verified that the PDF did not contain multimedia 
-  5. Analyzed the document elements 
-  6. Tagged the document and set the reading order 
-  7. Ran multiple iterations of the accessibility checker within Acrobat and revise as needed 
+  1. Analyzed the document elements.
+  2. Added appropriate tags for tables, lists, headings, figures.
+  3. Verified tags and set the reading order utilizing the reading order tool within Acrobat.
+  4. Ran multiple iterations of the accessibility checker within Acrobat and revise as needed.
 
 
-### [PDF accessibility report of remediated file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits_remediated_06012022.pdf.accreport.html) 
+### [PDF accessibility report of remediated file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits_remediated_06032022.pdf.accreport.html) 
+
+#### Document Issues
+
+##### Logical Reading Order
+<p> Manual check was done for the reading order of this document. </p>
+
+##### Color Contrast
+<p> Replaced document colors and used high-contrast colors on document wherever possible (without altering  customer’s color palette). </p>
 
 #### Page Content Issues
-
-##### Tagged content
-<p> Element 1 not tagged and not shown within the Tags tree or content section. (page 5) </p>
 
 ##### Tagged annotations
 <p> Element 1 (link) not tagged. (page 2) </p>
 <p> Element 2 - 13 (table cells) marked as annotation and not tagged. (page 4)</p>
+<p> These issues were caused by the consolidation of the separate PDF files into the original booklet size. </p>
 
 #### Tables
 
@@ -79,6 +81,7 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 ##### Regularity
 <p> Table has 2 rows with 3 columns, and 2 rows with 2 columns. Typically tables are evenly distributed throughout. (page 8) </p>
+<p> This was skipped as part of the accessibility check since the original document did not contain the evenly distributed rows and columns. We left it as is to not tamper with the customer's document. </p>
 
 
 ### Delivery workflow 
@@ -88,6 +91,7 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 
 ### Customer outcome and value realized 
 <p> Utilizing a front end system and having it seamlessly integrated with Adobe Acrobat Sign and AEM created a consolidated system for Pebble Pharm. This new system resulted in a 1-hour time savings for each benefit packet that's being sent out to new employees. </p>
+<p> The HR team also reported a spike in positive user experience feedback from those using assistive tools. There was a decreased number of calls to help desk regarding accessibility issues for visually impaired users by 70%. This ultimately led to a 40% increase in help desk tickets closed for other matters. </p>
 
 <p> We made many improvements on meeting the accessibility standards for this 201X benefit packet. Unfortunately, the accessibility report does show some issues that were unresolved. Without the source document, full remediation was not possible. With that being said, customer is satisfied with the results with the improvement of user experience for those using assistive tools. The HR team is setting the precedent for other teams to prioritize PDF accessibility within the company, since this engagement ultimately elevated their candidates' user experience. </p>
 
