@@ -17,6 +17,7 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 <p> Logical Reading Order - Needs Manual Check - Reading order always needs to be manually verified by a person. </p>
 <p> Title - Failed - The document was missing a title. </p>
 <p> Color contrast - Needs Manual Check - Document may contain content that isn't accessible to people who are color-blind.</p>
+
 ### Page Content Issues
 
 #### Tagged content
