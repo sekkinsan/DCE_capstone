@@ -46,10 +46,12 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 <p>Elements 1-8 are missing summaries.</p>
 
 ## Remediation plan 
-  1. Analyzed the document elements.
+  1. Analyzed the document elements. Run initial accessibility check.
   2. Added appropriate tags for tables, lists, headings, figures.
   3. Verified tags and set the reading order utilizing the reading order tool within Acrobat.
-  4. Ran multiple iterations of the accessibility checker within Acrobat and revise as needed.
+  4. Added alternate text where needed.
+  5. Ran multiple iterations of the accessibility checker within Acrobat and revise as needed.
+  6. Added form fields for Adobe Acrobat Sign.
 
 ## [PDF accessibility report of remediated file](https://github.com/sekkinsan/DCE_capstone/blob/main/Pebble_Pharm_201X_Benefits_remediated_06032022.pdf.accreport.html) 
 
@@ -64,17 +66,17 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 ### Page Content Issues
 
 #### Tagged annotations
-<p> Element 1 (link) not tagged. (page 2) </p>
-<p> Element 2 - 13 (table cells) marked as annotation and not tagged. (page 4)</p>
+<p> Element 1 (link) not tagged. </p>
+<p> Element 2 - 13 (table cells) marked as annotation and not tagged. </p>
 <p> These issues were caused by the consolidation of the separate PDF files into the original booklet size. </p>
 
 ### Tables
 
 #### Headers
-<p> Element 1 is missing headers. (page 4) </p>
+<p> Element 1 is missing headers. </p>
 
 #### Regularity
-<p> Table has 2 rows with 3 columns, and 2 rows with 2 columns. Typically tables are evenly distributed throughout. (page 8) </p>
+<p> Table has 2 rows with 3 columns, and 2 rows with 2 columns. Typically tables are evenly distributed throughout. </p>
 <p> This was skipped as part of the accessibility check since the original document did not contain the evenly distributed rows and columns. We left it as is to not tamper with the customer's document. </p>
 
 ## Delivery workflow 
@@ -89,3 +91,8 @@ DCE Capstone project for NA PSS team members: Talia Hoffman, Meena Ramamoorthy, 
 ## Future automation 
 
 ![Future Automation](/assets/future_automation.JPG)
+
+<p>In a case where we have the source document in a word document format, we could utilize the MS Active Accessibility API to automate part of the remediation process. On the flip side, if we only have the PDF, the PDF Autotag API could be utilized which helps improve accessibility through AI and batch processing. </p>
+<p>While automating the remediation process may minimize time spent manually, there is always going to be some human checks needed to ensure that the document successfully reaches its target audience. There isn't a 100% automation process that can be utilized for this since accessibility standards constantly change and are updated regularly to accommodate more people. </p>
+<p>As Rob Haverty once said... compliance is just the start of accessibility, ultimately it is about the User Experience! </p>
+
